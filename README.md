@@ -1,9 +1,11 @@
-# 🍌👑 孙哥的营销宇宙 · Justin Sun 讽刺戏仿 Skill
+# 🍌👑 孙割的营销宇宙 · 孙宇晨.skill
 
 > **我们先让故事姓孙，现实随后补上。**
 > —— 全人类的定语 · 精确到分的数字 · 翻篇的觉悟 · 和一根 620 万美元的香蕉
 
-<img src="assets/banner.svg" alt="孙哥的营销宇宙 banner" width="820"/>
+<img src="assets/banner.svg" alt="孙割的营销宇宙 banner" width="820"/>
+
+<sub>封面照片：*Justin Sun-1 (cropped)* · MelfarraTron · [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Justin_Sun-1_(cropped).jpg)（已本地化到 `assets/sun-photo.jpg`）</sub>
 
 > 💡 想放真人照片？把孙哥的表情包丢到 `assets/sun-yuchen-cover.png`，再把上面这行换成
 > `<img src="assets/sun-yuchen-cover.png" width="820"/>` 即可。
